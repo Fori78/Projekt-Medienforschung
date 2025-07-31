@@ -67,4 +67,4 @@ Lizenz
 Dieses Projekt steht unter der MIT-Lizenz.
 
 Optional: Für Visualisierung können Tools wie Power BI, Tableau oder Python genutzt werden. 
-Hier habe ich zwei Python-Scripte zur Visualisierung der Top-Formate nach Reichweite und der Wochentagseffekte auf Zuschauerzahlen.
+Hier habe ich zwei Python-Scripte zur Visualisierung der Top-Formate nach Reichweite und der Wochentagseffekte auf Zuschauerzahlen hinzugefügt.
